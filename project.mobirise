@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "new site Lisa 3e jaar",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -743,7 +743,7 @@
             "showButton": true
           },
           "title": "Lisa Roggeband",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;I see glass as a transparent but hard matrial wich influence an certain light.</span></p><p>Ceramics is an plastic natural medium. &nbsp;With my hands I have a directly approach to the clay. It's perfect for expression emotions and inner feelings.</p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;I see glass as a transparent but hard matrial wich influence a certain light.</span></p><p>Ceramics is an plastic natural medium. &nbsp;With my hands I have a directly approach to the clay.<span style=\"font-size: 1.07rem; line-height: 1.5;\">It's perfect to express emotions and inner feelings.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">more work<br></a>"
         },
         {
